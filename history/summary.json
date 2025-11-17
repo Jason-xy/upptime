@@ -94,19 +94,19 @@
     "url": "https://a.yxuew.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/a.yxuew.xyz.ico",
     "slug": "proxy-server",
-    "status": "down",
-    "uptime": "99.90%",
-    "uptimeDay": "99.90%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.90%",
-    "uptimeYear": "99.90%",
-    "time": 446,
-    "timeDay": 446,
-    "timeWeek": 446,
-    "timeMonth": 446,
-    "timeYear": 446,
+    "status": "up",
+    "uptime": "84.26%",
+    "uptimeDay": "84.26%",
+    "uptimeWeek": "84.26%",
+    "uptimeMonth": "84.26%",
+    "uptimeYear": "84.26%",
+    "time": 461,
+    "timeDay": 461,
+    "timeWeek": 461,
+    "timeMonth": 461,
+    "timeYear": 461,
     "dailyMinutesDown": {
-      "2025-11-17": 0
+      "2025-11-17": 21
     }
   },
   {
