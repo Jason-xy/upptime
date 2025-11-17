@@ -7,6 +7,8 @@ sites:
     url: https://uav.hkust.edu.hk
   - name: UAV-Group NAS
     url: https://dsm.hkust-uav.org
+  - name: UAV-Group Overleaf Server
+    url: https://latex.hkust-uav.org
   - name: Personal NAS - frpc
     url: yxuew.xyz
     port: 9443
