@@ -8,7 +8,9 @@ sites:
   - name: UAV-Group NAS
     url: https://dsm.hkust-uav.org
   - name: Personal NAS - frpc
-    url: https://yxuew.xyz:9443
+    url: yxuew.xyz
+    port: 9443
+    check: "tcp-ping"
   - name: Personal NAS - ugid
     url: https://zyh-xy.aar4.ug.link
   - name: Personal Website
