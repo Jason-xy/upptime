@@ -34,7 +34,7 @@ status-website:
   name: Yang Xu's Uptime Monitor
   introTitle: "Uptime Monitor for Daily Services"
   introMessage: "Monitoring the status of my personal and group services."
-  theme: ocean
+  theme: light
   navbar:
     - title: Status
       href: /
