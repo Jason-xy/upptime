@@ -1,7 +1,7 @@
 url: https://dsm.hkust-uav.org
-status: up
-code: 200
-responseTime: 2714
-lastUpdated: 2025-11-18T14:40:18.485Z
+status: down
+code: 500
+responseTime: 164
+lastUpdated: 2025-11-18T14:51:24.782Z
 startTime: 2025-11-17T12:21:01.173Z
 generator: Upptime <https://github.com/upptime/upptime>
