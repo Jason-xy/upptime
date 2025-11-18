@@ -1,7 +1,7 @@
 url: https://oneapi.hkust-uav.org
-status: down
-code: 500
-responseTime: 72
-lastUpdated: 2025-11-18T11:56:57.924Z
+status: up
+code: 200
+responseTime: 1072
+lastUpdated: 2025-11-18T14:40:29.872Z
 startTime: 2025-11-17T16:28:58.775Z
 generator: Upptime <https://github.com/upptime/upptime>
