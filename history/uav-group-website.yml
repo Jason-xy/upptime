@@ -1,7 +1,7 @@
 url: https://uav.hkust.edu.hk
-status: down
-code: 503
-responseTime: 885
-lastUpdated: 2026-01-05T23:10:10.591Z
+status: up
+code: 200
+responseTime: 2521
+lastUpdated: 2026-01-06T01:04:06.318Z
 startTime: 2025-11-17T12:20:58.542Z
 generator: Upptime <https://github.com/upptime/upptime>
