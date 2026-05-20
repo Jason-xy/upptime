@@ -34,7 +34,7 @@ assignees:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: uptime.yxuew.xyz
+  cname: uptime.jason-xy.cn
   # baseUrl: /upptime
   logoUrl: https://avatars.githubusercontent.com/u/53471811?v=4
   name: Yang Xu's Uptime Monitor
