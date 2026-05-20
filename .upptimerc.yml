@@ -12,9 +12,9 @@ sites:
   - name: UAV-Group Artifactory Server
     url: https://repo.hkust-uav.org
   - name: UAV-Group LLM Router
-    url: https://oneapi.hkust-uav.org
+    url: https://sub2api.hkust-uav.org
   - name: Personal NAS - frpc
-    url: yxuew.xyz
+    url: hk.hkust-uav.org
     port: 9443
     check: "tcp-ping"
   - name: Personal NAS - ugid
@@ -22,9 +22,9 @@ sites:
   - name: Personal Website
     url: https://jason-xy.cn
   - name: Proxy Server
-    url: https://a.yxuew.xyz
+    url: https://jp.hkust-uav.org
   - name: RustDesk Server
-    url: rustdesk.yxuew.xyz
+    url: rustdesk.hkust-uav.org
     port: 21116
     check: "tcp-ping"
 
