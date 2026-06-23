@@ -1,7 +1,7 @@
 url: https://sub2api.hkust-uav.org
-status: up
-code: 200
-responseTime: 944
-lastUpdated: 2026-06-22T23:57:40.360Z
+status: down
+code: 530
+responseTime: 24
+lastUpdated: 2026-06-23T05:47:56.326Z
 startTime: 2025-11-17T16:28:58.775Z
 generator: Upptime <https://github.com/upptime/upptime>
