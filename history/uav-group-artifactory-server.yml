@@ -1,7 +1,7 @@
 url: https://repo.hkust-uav.org
-status: up
-code: 200
-responseTime: 868
-lastUpdated: 2026-07-12T23:40:08.122Z
+status: down
+code: 503
+responseTime: 2301
+lastUpdated: 2026-07-13T13:03:50.580Z
 startTime: 2025-11-17T16:28:57.538Z
 generator: Upptime <https://github.com/upptime/upptime>
