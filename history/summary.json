@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/uav.hkust.edu.hk.ico",
     "slug": "uav-group-website",
     "status": "down",
-    "uptime": "96.37%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "97.56%",
-    "uptimeYear": "96.37%",
+    "uptime": "96.35%",
+    "uptimeDay": "92.19%",
+    "uptimeWeek": "98.88%",
+    "uptimeMonth": "97.30%",
+    "uptimeYear": "96.35%",
     "time": 2693,
     "timeDay": 0,
     "timeWeek": 2540,
-    "timeMonth": 2627,
+    "timeMonth": 2629,
     "timeYear": 2693,
     "dailyMinutesDown": {
       "2026-02-26": 36,
@@ -95,7 +95,7 @@
       "2026-10-07": 295,
       "2026-10-08": 109,
       "2026-10-11": 371,
-      "2026-10-22": 0
+      "2026-10-22": 112
     }
   },
   {
@@ -104,15 +104,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/dsm.hkust-uav.org.ico",
     "slug": "uav-group-nas",
     "status": "up",
-    "uptime": "71.27%",
+    "uptime": "71.28%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "71.27%",
+    "uptimeYear": "71.28%",
     "time": 1546,
     "timeDay": 1011,
     "timeWeek": 1021,
-    "timeMonth": 1215,
+    "timeMonth": 1226,
     "timeYear": 1546,
     "dailyMinutesDown": {
       "2025-11-18": 198,
@@ -233,15 +233,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/latex.hkust-uav.org.ico",
     "slug": "uav-group-overleaf-server",
     "status": "up",
-    "uptime": "69.10%",
+    "uptime": "69.11%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "69.10%",
+    "uptimeYear": "69.11%",
     "time": 1366,
     "timeDay": 1164,
     "timeWeek": 1124,
-    "timeMonth": 1507,
+    "timeMonth": 1519,
     "timeYear": 1366,
     "dailyMinutesDown": {
       "2025-11-18": 168,
@@ -383,7 +383,7 @@
     "time": 1076,
     "timeDay": 765,
     "timeWeek": 624,
-    "timeMonth": 911,
+    "timeMonth": 922,
     "timeYear": 1076,
     "dailyMinutesDown": {
       "2025-11-17": 12,
@@ -456,7 +456,7 @@
     "time": 869,
     "timeDay": 1057,
     "timeWeek": 945,
-    "timeMonth": 1140,
+    "timeMonth": 1152,
     "timeYear": 869,
     "dailyMinutesDown": {
       "2025-11-18": 164,
@@ -495,7 +495,7 @@
     "time": 162,
     "timeDay": 220,
     "timeWeek": 221,
-    "timeMonth": 202,
+    "timeMonth": 203,
     "timeYear": 162,
     "dailyMinutesDown": {
       "2026-01-19": 8,
@@ -546,7 +546,7 @@
     "time": 5829,
     "timeDay": 6490,
     "timeWeek": 6553,
-    "timeMonth": 6330,
+    "timeMonth": 6329,
     "timeYear": 5829,
     "dailyMinutesDown": {}
   },
@@ -564,7 +564,7 @@
     "time": 377,
     "timeDay": 550,
     "timeWeek": 383,
-    "timeMonth": 420,
+    "timeMonth": 427,
     "timeYear": 377,
     "dailyMinutesDown": {
       "2025-11-18": 147,
@@ -585,7 +585,7 @@
     "time": 491,
     "timeDay": 452,
     "timeWeek": 455,
-    "timeMonth": 588,
+    "timeMonth": 592,
     "timeYear": 491,
     "dailyMinutesDown": {
       "2025-11-17": 21,
@@ -609,7 +609,7 @@
     "time": 165,
     "timeDay": 220,
     "timeWeek": 222,
-    "timeMonth": 234,
+    "timeMonth": 237,
     "timeYear": 165,
     "dailyMinutesDown": {
       "2026-02-21": 22
